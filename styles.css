@@ -1,0 +1,100 @@
+body{
+
+font-family: sans-serif;
+}
+
+hr{
+margin-top: 0px;
+}
+
+#profile_img{
+  width: 25%;
+  border-radius: 100%;
+
+}
+
+
+.Header{
+text-align: center;
+background-color: #EAF6F6;
+
+}
+
+.Cloud{
+position:absolute;
+}
+
+#Cloud1{
+top: 400px;
+left: 400px
+
+}
+
+#Cloud2{
+  top: 250px;
+  right: 400px;
+}
+
+.skill-img{
+width: 25%;
+}
+
+
+}
+.myskills{
+text-align: center;
+margin: 2%;
+}
+
+#skill-img1{
+  float: left;
+}
+
+#skill-img2{
+  float:right;
+  width: 30%
+
+}
+
+.skill-2{
+clear: left;
+}
+
+.Getintoach{
+background-color:#EAF6F6;
+text-align: center;
+clear: right;
+
+}
+.myButton {
+	box-shadow:inset 0px 1px 0px 0px #f29c93;
+	background:linear-gradient(to bottom, #fe1a00 5%, #ce0100 100%);
+	background-color:#fe1a00;
+	border-radius:6px;
+	border:1px solid #d83526;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #b23e35;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #ce0100 5%, #fe1a00 100%);
+	background-color:#ce0100;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.Copymyright{
+text-align: center;
+color: white;
+background-color: #66BFBF;
+
+
+}
